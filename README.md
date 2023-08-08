@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shohirev
-- 👀 and I’m interested in data analysis
+- 🐱‍👓 I’m interested in data analysis
+- 🐱‍💻 and here you can see some training cases
 
 
 <!---
